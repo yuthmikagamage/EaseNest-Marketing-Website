@@ -75,7 +75,7 @@ a:hover {
     left: 0;
     width: 100%;
     flex-direction: column;
-    background: rgb(212, 212, 212);
+    background: aliceblue;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   }
 
