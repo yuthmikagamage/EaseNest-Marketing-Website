@@ -1,8 +1,10 @@
+body {
+  margin: 0;
+}
 .aboutContainer {
   background-color: rgb(255, 255, 255);
   color: #333;
   font-family: Arial, sans-serif;
-  padding: 20px;
 }
 
 .aboutText {
@@ -24,6 +26,7 @@
 }
 
 .teamSection {
+  margin-top: 60px;
   text-align: center;
   padding: 40px 20px;
 }

@@ -1,4 +1,5 @@
 import './About.css';
+import Footer from '../../Components/Footer/Footer';
 import sanuda from '../../assets/SanudaPhoto.jpeg'; 
 import yuthmika from '../../assets/YuthmikaPhoto.jpeg'; 
 import ransaka from '../../assets/Ransakaphoto.png'; 
@@ -35,6 +36,7 @@ function About() {
           ))}
         </div>
       </div>
+      <Footer></Footer>
     </div>
   );
 }
