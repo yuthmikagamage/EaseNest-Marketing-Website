@@ -23,12 +23,12 @@ body {
 }
 
 .contact-box {
-  background: white;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.8));
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 15px aliceblue;
   width: 100%;
-  max-width: 50%;
+  max-width: 450px;
   margin-bottom: 30px;
   opacity: 0;
   transform: scale(0.9);
@@ -37,51 +37,61 @@ body {
 
 .contact-title {
   text-align: center;
-  font-size: 24px;
-  color: gray;
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: #333;
   margin-bottom: 20px;
-}
-
-.contact-form label {
-  display: block;
-  margin-bottom: 5px;
-  color: gray;
+  text-transform: uppercase;
 }
 
 .contact-form input,
 .contact-form textarea {
   width: 100%;
-  padding-bottom: 10px;
-  border: 1px solid gray;
-  border-radius: 5px;
-  margin-bottom: 10px;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 15px;
   outline: none;
-  transition: transform 0.2s ease-in-out, border-color 0.2s;
+  font-size: 16px;
+  transition: all 0.3s ease;
+  box-sizing: border-box;
 }
 
 .contact-form input:focus,
 .contact-form textarea:focus {
+  border-color: aliceblue;
+  box-shadow: 0 0 8px rgba(118, 153, 183, 0.5);
   transform: scale(1.05);
-  border-color: rgb(100, 100, 126);
-  animation: shake 0.4s ease-in-out;
 }
 
 .contact-button {
   width: 100%;
-  background: rgb(159, 179, 197);
-  color: white;
-  padding: 10px;
+  background: aliceblue;
+  color: rgb(0, 0, 0);
+  padding: 12px;
   border: none;
-  border-radius: 5px;
+  border-radius: 8px;
   cursor: pointer;
-  transition: ease 0.3s, transform 0.2s, box-shadow 0.2s ease-in-out;
+  font-size: 16px;
+  font-weight: bold;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .contact-button:hover {
-  background: rgb(100, 100, 126);
-  transform: scale(1.05);
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  background: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
+
+.contact-button:active {
+  background: aliceblue;
+  transform: scale(1);
+}
+
+.contact-form textarea {
+  height: 150px;
+  resize: vertical;
+}
+
 
 .social-media {
   text-align: center;

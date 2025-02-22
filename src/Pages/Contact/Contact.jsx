@@ -44,19 +44,16 @@ function Contact() {
         <p>We would love to hear from you! Reach out to us using the form below.</p>
       </div>
       <div className="contact-box">
-        <h2 className="contact-title">Contact Us</h2>
+        <p className="contact-title">Contact Us</p>
         <form ref={form} onSubmit={sendEmail} className="contact-form">
           <div>
-            <label>Name</label>
-            <input type="text" name="user_name" />
+            <input type="text" name="user_name" placeholder="Name"/>
           </div>
           <div>
-            <label>Email</label>
-            <input type="email" name="user_email" />
+            <input type="email" name="user_email" placeholder="Email" />
           </div>
           <div>
-            <label>Message</label>
-            <textarea name="message"></textarea>
+            <textarea name="message" placeholder="Your message"></textarea>
           </div>
           <button type="submit" className="contact-button">Send Message</button>
         </form>
