@@ -17,7 +17,7 @@ export default function Footer() {
 
                 <div className="section">
                     <h4>Contact Us</h4>
-                    <p>Email: easenest@gmail.com</p>
+                    <p>Email: easenest.app@gmail.com</p>
                     <p>Phone: +94 71 234 5678</p>
                     <p>Location: Colombo, SriLanka</p>
                 </div>
@@ -25,7 +25,7 @@ export default function Footer() {
                 <div className="section">
                     <h4>Follow Us</h4>
                     <div className="icons">
-                        <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.facebook.com/share/1Bok8qVjwk/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer">
                         <FaFacebook />
                         </a>
                         <a href="https://www.instagram.com/easenest.app?igsh=YWx2NHNzZGNqa2d4&utm_source=qr" target="_blank" rel="noopener noreferrer">

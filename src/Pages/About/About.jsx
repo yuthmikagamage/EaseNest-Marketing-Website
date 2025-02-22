@@ -1,11 +1,11 @@
 import './About.css';
 import Footer from '../../Components/Footer/Footer';
-import sanuda from '../../assets/SanudaPhoto.jpeg'; 
-import yuthmika from '../../assets/YuthmikaPhoto.jpeg'; 
-import ransaka from '../../assets/Ransakaphoto.png'; 
-import chamal from '../../assets/ChamalPhoto.jpeg'; 
-import verosha from '../../assets/VeroshaPhoto.jpeg'; 
-import manul from '../../assets/ManulPhoto.jpeg'; 
+import sanuda from '../../assets/images/SanudaPhoto.jpeg'; 
+import yuthmika from '../../assets/images/YuthmikaPhoto.jpeg'; 
+import ransaka from '../../assets/images/Ransakaphoto.png'; 
+import chamal from '../../assets/images/ChamalPhoto.jpeg'; 
+import verosha from '../../assets/images/VeroshaPhoto.jpeg'; 
+import manul from '../../assets/images/ManulPhoto.jpeg'; 
 import DeveloperCard from '../../Components/DevCard/DeveloperCard';
 
 function About() {

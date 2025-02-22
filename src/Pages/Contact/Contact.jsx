@@ -1,5 +1,5 @@
 import "./Contact.css";
-import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { FaInstagram, FaLinkedin ,FaFacebook} from "react-icons/fa";
 import Footer from '../../Components/Footer/Footer';
 import { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
@@ -60,12 +60,11 @@ function Contact() {
         {messageStatus && <p className="confirmation-message">{messageStatus}</p>}
       </div>
       <div className="social-media">
-        <h3>Follow Us</h3>
+        <h3>Reach Us</h3>
         <div className="social-icons">
-          <a href="#" className="social-icon"><FaFacebook /></a>
-          <a href="#" className="social-icon"><FaTwitter /></a>
-          <a href="#" className="social-icon"><FaInstagram /></a>
-          <a href="#" className="social-icon"><FaLinkedin /></a>
+          <a href="https://www.facebook.com/share/1Bok8qVjwk/?mibextid=wwXIfr" className="social-icon"><FaFacebook /></a>
+          <a href="https://www.instagram.com/easenest.app?igsh=YWx2NHNzZGNqa2d4&utm_source=qr" className="social-icon"><FaInstagram /></a>
+          <a href="https://www.linkedin.com/company/easenest/" className="social-icon"><FaLinkedin /></a>
         </div>
       </div>
       <Footer></Footer>
