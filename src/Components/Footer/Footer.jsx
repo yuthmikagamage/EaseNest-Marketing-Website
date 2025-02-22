@@ -1,5 +1,5 @@
 import "../Footer/Footer.css";
-import { FaFacebook, FaInstagram} from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaLinkedin} from "react-icons/fa";
 
 export default function Footer() {
     return (
@@ -18,7 +18,7 @@ export default function Footer() {
                 <div className="section">
                     <h4>Contact Us</h4>
                     <p>Email: easenest.app@gmail.com</p>
-                    <p>Phone: +94 71 234 5678</p>
+                    <p>Phone: +94 76 342 5325</p>
                     <p>Location: Colombo, SriLanka</p>
                 </div>
 
@@ -30,6 +30,9 @@ export default function Footer() {
                         </a>
                         <a href="https://www.instagram.com/easenest.app?igsh=YWx2NHNzZGNqa2d4&utm_source=qr" target="_blank" rel="noopener noreferrer">
                         <FaInstagram />
+                        </a>
+                        <a href="https://www.linkedin.com/company/easenest/about/" target="_blank" rel="noopener noreferrer">
+                        <FaLinkedin/>
                         </a>
                     </div>
                 </div>
