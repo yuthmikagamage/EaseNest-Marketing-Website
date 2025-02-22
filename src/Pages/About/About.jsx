@@ -2,7 +2,7 @@ import './About.css';
 import Footer from '../../Components/Footer/Footer';
 import sanuda from '../../assets/images/SanudaPhoto.jpeg'; 
 import yuthmika from '../../assets/images/YuthmikaPhoto.jpeg'; 
-import ransaka from '../../assets/images/Ransakaphoto.png'; 
+import ransaka from '../../assets/images/Ransakaphoto.jpeg'; 
 import chamal from '../../assets/images/ChamalPhoto.jpeg'; 
 import verosha from '../../assets/images/VeroshaPhoto.jpeg'; 
 import manul from '../../assets/images/ManulPhoto.jpeg'; 
