@@ -1,8 +1,30 @@
-# React + Vite
+# EaseNest Marketing Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **EaseNest** Marketing Website repository! This project is built using React to showcase the features and benefits of EaseNest, a smart housing scheme management platform.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live website: https://easenest.online
+
+## 🛠 Tech Stack
+
+- React.js
+- Vite (for fast development)
+- Tailwind CSS (for styling)
+- React Router (for navigation)
+
+## 📌 Features
+
+- Responsive design
+- SEO optimized
+- Fast loading with Vite
+- Easy navigation with React Router
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+🌐 **Stay Connected**  
+📧 Contact: easenest.app@gmail.com
