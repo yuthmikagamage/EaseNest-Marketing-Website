@@ -6,10 +6,11 @@ import '../Services/Services.css';
 function Services(){
     return(
         <div>
-
             <NavBar />
-            <div className="services">
+            <div className="head">
                 <h2>What We Provide?</h2>
+            </div>
+            <div className="services">
                 <div className="services-container">
                     <ServiceCard
                         title="Seamless Security Check-In"
@@ -36,8 +37,8 @@ function Services(){
                         description="Enable your residents to connect with neighbors, engage in discussions, and build a stronger community."
                     />
                     <ServiceCard
-                        title="Convenient Payment Facilities"
-                        description="Empower your residents with seamless online payments! They can easily pay using their favorite payment method."
+                        title="Real time street view"
+                        description="Empower your residents with real-time street views, providing enhanced awareness, safety, and convenience at their fingertips."
                     />
                 </div>
             </div>
