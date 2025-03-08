@@ -67,7 +67,7 @@ export default function Home() {
         <div className="statistics-container">
           <div className="statistic-item">
             <h3>2+</h3>
-            <p>Both Apartment and Hosuing scheme</p>
+            <p>Both Apartment and Housing scheme</p>
           </div>
           <div className="statistic-item">
             <h3>7+</h3>

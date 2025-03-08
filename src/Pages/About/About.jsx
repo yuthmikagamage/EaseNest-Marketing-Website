@@ -79,7 +79,7 @@ function About() {
 
   return (
     <div className="aboutContainer">
-      <h1 className="pageTitle">About Us</h1>
+      <h2 className="pageTitle">About Us</h2>
 
       <div className="companySection">
         <div className="companyDetails">
@@ -108,7 +108,7 @@ function About() {
 
       <div className="teamSection">
         <h2>Meet Our Team</h2>
-        
+
         <div className="teamShowcase">
           <div className="featuredDeveloper">
             <div className="developerProfile">
