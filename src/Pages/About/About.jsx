@@ -17,7 +17,7 @@ function About() {
       image: chamal, 
       name: 'Chamal Wettasinghe',
       role: 'Full-Stack Developer',
-      bio: 'Creates beautiful and functional user experiences through thoughtful design principles.',
+      bio: 'Ensures the smooth functionality of applications across all layers of the stack.',
       github: 'https://github.com/chamal-ux',
       portfolio: 'https://www.linkedin.com/in/chamal-wettasinghe-46974b19a/?originalSubdomain=lk',
       linkedin: 'https://www.linkedin.com/in/chamal-wettasinghe-46974b19a/?originalSubdomain=lk'
@@ -26,18 +26,18 @@ function About() {
       image: yuthmika, 
       name: 'Yuthmika Vidana Gamage',
       role: 'Full-Stack Developer',
-      bio: 'Specializes in building scalable server-side applications and database architecture.',
+      bio: 'Builds both front-end and back-end components of web applications, ensuring seamless integration.',
       github: 'https://github.com/yuthmikagamage',
-      portfolio: 'https://yuthmika-vidana-gamage.netlify.app',
+      portfolio: 'https://yuthmika.info',
       linkedin: 'https://www.linkedin.com/in/yuthmika-gamage-187bb4296?originalSubdomain=lk'
     },
     { 
       image: sanuda, 
       name: 'Sanuda Wijethunga',
       role: 'Full-Stack Developer',
-      bio: 'Passionate about creating intuitive user interfaces with modern web technologies.',
+      bio: 'Delivers end-to-end solutions, handling both client-side and server-side development.',
       github: 'https://github.com/SanudaWijethunga',
-      portfolio: 'https://sanuda-wijethunga.netlify.app',
+      portfolio: 'https://sanuda.info',
       linkedin: 'https://www.linkedin.com/in/sanuda-wijethunga-95b83528a/'
     },
     { 
@@ -53,7 +53,7 @@ function About() {
       image: ransaka, 
       name: 'Vihadu Ransaka',
       role: 'Frontend Developer',
-      bio: 'Experienced in both frontend and backend technologies with a focus on performance optimization.',
+      bio: 'Focuses on delivering intuitive and visually appealing experiences.',
       github: 'https://github.com/Ransakaz',
       portfolio: 'https://www.linkedin.com/in/vihandu-ransaka-a85016311/',
       linkedin: 'https://www.linkedin.com/in/vihandu-ransaka-a85016311/'
@@ -62,7 +62,7 @@ function About() {
       image: manul, 
       name: 'Manul Abeyratne',
       role: 'Mobile Developer',
-      bio: 'Specializes in cross-platform mobile application development with a focus on user experience.',
+      bio: 'Ensures smooth performance and a consistent experience across devices.',
       github: 'https://github.com/Tehan123456789',
       portfolio: 'https://www.linkedin.com/in/manul-abeyratne-643544337/',
       linkedin: 'https://www.linkedin.com/in/manul-abeyratne-643544337/'
