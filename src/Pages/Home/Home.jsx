@@ -4,7 +4,7 @@ import NavBar from '../../Components/NavBar';
 import startPage from '../../assets/images/startPage.png';
 import HomePage from '../../assets/images/Home.png';
 import visitorPass from '../../assets/images/visitorPass.png';
-import Maintenance from '../../assets/images/Maintenance.png';
+import login from '../../assets/images/login.png';
 import '../Home/Home.css';
 import { useNavigate } from 'react-router-dom';
 
@@ -87,9 +87,9 @@ export default function Home() {
         </div>
         <div className="section-4-img">
           <img src={startPage} alt="Start Page" className="start-page-img" />
+          <img src={login} alt="Maintenance" className="start-page-img" />
           <img src={HomePage} alt="Home Page" className="start-page-img" />
           <img src={visitorPass} alt="Visitor Pass" className="start-page-img" />
-          <img src={Maintenance} alt="Maintenance" className="start-page-img" />
         </div>
       </div>
       <hr />
