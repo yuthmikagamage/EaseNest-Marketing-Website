@@ -37,8 +37,8 @@ function Services(){
                         description="Enable your residents to connect with neighbors, engage in discussions, and build a stronger community."
                     />
                     <ServiceCard
-                        title="Real time street view"
-                        description="Empower your residents with real-time street views, providing enhanced awareness, safety, and convenience at their fingertips."
+                        title="Payment facilities"
+                        description="Residents can conveniently upload their rent, maintenance fees, and other charges securely through the app, with instant transaction history tracking."
                     />
                 </div>
             </div>
